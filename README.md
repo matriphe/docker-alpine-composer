@@ -39,7 +39,7 @@ If you run and want to link Nginx container, make sure you created and run this 
 Add to your `~/.bashrc` this line, so you can just type `composer` command from command line. Make sure the docker engine is running.
 
 ```Shell
-alias composer='docker run --rm --name=composer -v $(pwd):/www matriphe/alpine-composer'
+alias composer='docker run --rm --name=composer -v $(pwd):/www matriphe/alpine-composer:latest composer'
 ```
 
 And then execute this command to make alias working.
