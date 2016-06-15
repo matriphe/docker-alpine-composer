@@ -8,7 +8,7 @@ Versions and are based on PHP versions.
 
 Here are the supported tags and respective Dockerfile links.
 
- * `latest`, `1.0.0-alpha11` [(Dockerfile)](https://github.com/matriphe/docker-alpine-composer/blob/master/Dockerfile)
+ * `latest` [(Dockerfile)](https://github.com/matriphe/docker-alpine-composer/blob/master/Dockerfile)
  
 ## Getting The Image
 
