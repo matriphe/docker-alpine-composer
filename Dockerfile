@@ -5,7 +5,7 @@ FROM matriphe/alpine-php:cli
 MAINTAINER Muhammad Zamroni <halo@matriphe.com>
 
 # Version
-ENV COMPOSER_VERSION 1.0.0-alpha11
+ENV COMPOSER_VERSION 1.1.2
 
 # Let's roll
 RUN	apk update && \
